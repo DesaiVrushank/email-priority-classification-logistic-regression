@@ -1,6 +1,6 @@
 # Email Priority Classification Using Logistic Regression
 
-A binary classification Machine Learning project that predicts whether an incoming email should be marked as **High Priority** or **Normal/Low Priority** using Logistic Regression.
+A binary classification Machine Learning project that predicts whether an incoming email should be marked as **High Priority/Positive** or **Normal/Low Priority/Negative** using Logistic Regression.
 
 ## Project Overview
 
